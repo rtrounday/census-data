@@ -1,16 +1,41 @@
 # real-estate-analysis
 
-census data
-zillow data
+
+Project Title: Real Esate Trends
+
+Team Members: Nicole Love, Nichole Pejoro, Ray Trunday (Jello World)
+
+Data APIs:
+-census data
+-zillow data
+
+Project Description/Outline:  Evaluate relationships between US home prices and population post-Recession. Provide the top areas that are up-and-coming; potential cities of interest.
 
 
-us-specific
+Research Questions to Answer: 
+-Is there a correlation between population growth and housing prices? Between population growth and rent?
+-Are the following states ones of interest: California, Oregon, Texas (Austin), Colorado, Washington, Nevada (Las Vegas)?
+-Who is moving? Age, marital status, genter, education level, household income, ethnicity?
+-What do the job market trends show?
 
-up-and-coming cities/states of interest: california, oregon, texas (austin), colorado, washington, nevada (las vegas), etc
-
-is there a correlation between population growth and housing prices, rent?
-who's moving? age, marital status, gender, edu level, house hold income, ethnicity
+Data Sets to be Used: US Census Data, Zillow Data
 
 
+Rough Breakdown of Tasks:
+-Nicole:Set up
+-Nichole:
+-Ray:
 
 
+set up repo
+get api keys/data
+create csv files (vs json)
+create data frames 
+create graphs
+asses comparisons/add new charts, etc
+format graphs/pretty print/seaborn
+add analysis
+recommendations for where we all move!
+powerpoint
+practice/time
+make jello!
