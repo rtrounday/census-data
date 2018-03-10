@@ -32,7 +32,7 @@ Tasks:
 * create csv files (vs json)
 * create data frames 
 * create graphs
-* asses comparisons/add new charts, etc
+* assess comparisons/add new charts, etc
 * format graphs/pretty print/seaborn
 * add analysis
 * recommendations for where we all move!
