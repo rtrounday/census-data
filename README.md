@@ -22,20 +22,20 @@ Data Sets to be Used: US Census Data, Zillow Data
 
 
 Rough Breakdown of Tasks:
--Nicole:Set up
--Nichole:
--Ray:
+* Nicole:Set up
+* Nichole:
+* Ray:
 
-
-set up repo
-get api keys/data
-create csv files (vs json)
-create data frames 
-create graphs
-asses comparisons/add new charts, etc
-format graphs/pretty print/seaborn
-add analysis
-recommendations for where we all move!
-powerpoint
-practice/time
-make jello!
+Tasks: 
+* set up repo
+* get api keys/data
+* create csv files (vs json)
+* create data frames 
+* create graphs
+* asses comparisons/add new charts, etc
+* format graphs/pretty print/seaborn
+* add analysis
+* recommendations for where we all move!
+* powerpoint
+* practice/time
+* make jello!
