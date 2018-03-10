@@ -5,12 +5,7 @@ Project Title: Real Esate Trends
 
 Team Members: Nicole Love, Nichole Pejoro, Ray Trunday (Jello World)
 
-Data APIs:
-* census data
-* zillow data
-
 Project Description/Outline:  Evaluate relationships between US home prices and population post-Recession. Provide the top areas that are up-and-coming; potential cities of interest.
-
 
 Research Questions to Answer: 
 * Is there a correlation between population growth and housing prices? Between population growth and rent?
@@ -18,17 +13,15 @@ Research Questions to Answer:
 * Who is moving? Age, marital status, genter, education level, household income, ethnicity?
 * What do the job market trends show?
 
-Data Sets to be Used: US Census Data, Zillow Data
+Data Sets to be Used: US Census Data (2011 - 2015), Zillow Data
 
 
 Rough Breakdown of Tasks:
-* Nicole:Set up
-* Nichole:
+* Nicole: Set up repository, get Census API key
+* Nichole: Get Zillow API key, 
 * Ray:
 
 Tasks: 
-* set up repo
-* get api keys/data
 * create csv files (vs json)
 * create data frames 
 * create graphs
