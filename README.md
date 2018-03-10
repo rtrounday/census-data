@@ -6,17 +6,17 @@ Project Title: Real Esate Trends
 Team Members: Nicole Love, Nichole Pejoro, Ray Trunday (Jello World)
 
 Data APIs:
--census data
--zillow data
+* census data
+* zillow data
 
 Project Description/Outline:  Evaluate relationships between US home prices and population post-Recession. Provide the top areas that are up-and-coming; potential cities of interest.
 
 
 Research Questions to Answer: 
--Is there a correlation between population growth and housing prices? Between population growth and rent?
--Are the following states ones of interest: California, Oregon, Texas (Austin), Colorado, Washington, Nevada (Las Vegas)?
--Who is moving? Age, marital status, genter, education level, household income, ethnicity?
--What do the job market trends show?
+* Is there a correlation between population growth and housing prices? Between population growth and rent?
+* Are the following states ones of interest: California, Oregon, Texas (Austin), Colorado, Washington, Nevada (Las Vegas)?
+* Who is moving? Age, marital status, genter, education level, household income, ethnicity?
+* What do the job market trends show?
 
 Data Sets to be Used: US Census Data, Zillow Data
 
