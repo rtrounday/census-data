@@ -14,19 +14,19 @@ Project Description/Outline:  Evaluate relationships between US home prices and 
 
 Research Questions to Answer: 
 * Is there a correlation between population growth and housing prices? Between population growth and rent?
-* Are the following states ones of interest: California, Oregon, Texas (Austin), Colorado, Washington, Nevada (Las Vegas)?
+* Are the following states ones of interest: California (San Francisco), Oregon (Portland), Texas (Austin), Colorado (Denver), South Dakota (Sioux Falls)?
 * Who is moving? Age, marital status, gender, education level, household income, ethnicity? -ray
-* What do the job market trends show?-ray
-* Any correlation between population growth and unemployments -ray
+
+* What do the job market trends show? - nichole
+* Any correlation between population growth and unemployments -nichole
 * age binning: 20-29, 30-39, etc
-* What type of jobs in relation to education levels? -
-* Size of Homes? Average Sqaure Footage?  $ per square foot? -nichole
+* What type of jobs in relation to education levels? - nichole
 
 * household income over population -nicole
 * % growth from year to year -nicole
 * income growth -nicole
 
-Data Sets to be Used: US Census Data, Zillow Data
+Data Sets to be Used: US Census Data
 
 
 Rough Breakdown of Tasks:
@@ -76,4 +76,4 @@ Timeline:
 3/20/18
 *Project Presentations
 
-
+this needs to work!!!
