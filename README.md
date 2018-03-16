@@ -11,11 +11,11 @@ Project Description/Outline:
 Research Questions to Answer:
 * Is there a correlation between population growth and housing prices? Between population growth and rent?
 * Are the following states ones of interest: 
-  -San Francisco, California
-  -Portland, Oregon
-  -Austin, Texas
-  -Sioux Falls, South Dakota
-  -Denver, Colorado
+  - San Francisco, California
+  - Portland, Oregon
+  - Austin, Texas
+  - Sioux Falls, South Dakota
+  - Denver, Colorado
 * Who is moving? Age, household income?
 * What do the job market trends show?
 
